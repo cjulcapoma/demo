@@ -1,0 +1,30 @@
+body
+{
+	background: olive;
+	color:white;
+	font-family:Helvetica, Arial;
+	font-size:16px;
+}
+h1
+{
+	text-align:center;
+	text-shadow: 5px 5px 10px #00000F;
+}
+
+#primer-parrafo 
+{
+	background: white;
+	border-radius: 0.5em;
+	box-shadow: 0px 5px 10px #00000F;
+	color: black;
+	display: block;
+	margin: 1em auto;
+	padding: 1em;
+	width: 70%;
+}
+
+.naranja
+{
+	color:orange;
+	font-weight:bold;
+}
